@@ -27,6 +27,7 @@ source .venv/bin/activate
 # git
 git add .
 git commit -m "initial commit"
+git commit -m "initial code from project added"
 
 git push origin main
 
